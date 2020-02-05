@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GBK"?>
+<!DOCTYPE AdminRoot SYSTEM "Admin.dtd">
+
+<AdminRoot>
+  <Admin id="1">
+    <name>超级用户</name>
+    <account>admin</account>
+    <password>123</password>
+  </Admin>
+</AdminRoot>

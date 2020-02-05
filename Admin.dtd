@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="GBK"?>
+<!ELEMENT AdminRoot (Admin)>
+<!ELEMENT Admin (name,account,password)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT account (#PCDATA)>
+<!ELEMENT password (#PCDATA)>
+<!ATTLIST Admin id CDATA #REQUIRED >

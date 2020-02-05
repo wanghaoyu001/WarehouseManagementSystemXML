@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="GBK"?>
+<!DOCTYPE WarehouseRoot SYSTEM "WarehouseInf.dtd">
+
+<WarehouseRoot> 
+  <warehouse id="1">
+    <name>总仓库</name>
+    <people>超级用户</people>
+    <phone>888888</phone>
+    <address>北京市</address>
+    <remarks>无</remarks>
+  </warehouse>  
+  <warehouse id="2">
+    <name>第一仓库</name>
+    <people>超级用户</people>
+    <phone>999999</phone>
+    <address>上海市</address>
+    <remarks>可删除</remarks>
+  </warehouse>  
+  <warehouse id="3">
+    <name>垫底儿</name>
+    <people>www</people>
+    <phone>www</phone>
+    <address>www</address>
+    <remarks>www</remarks>
+  </warehouse>
+</WarehouseRoot>

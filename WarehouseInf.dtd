@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="GBK"?>
+<!ELEMENT WarehouseInf (warehouse)>
+<!ELEMENT warehouse (name,people,phone,address,remarks)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT people (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT remarks (#PCDATA)>
+<!ATTLIST warehouse id CDATA #REQUIRED >

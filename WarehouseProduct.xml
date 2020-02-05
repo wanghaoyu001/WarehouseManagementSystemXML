@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GBK"?>
+<!DOCTYPE ProductRoot SYSTEM "WarehouseProduct.dtd">
+
+<ProductRoot>
+  <Product id="001">
+    <productName>西瓜</productName>
+    <productType>水果</productType>
+    <productPeci>绿色</productPeci>
+  </Product>
+  <Product id="002">
+    <productName>电视</productName>
+    <productType>家用电器</productType>
+    <productPeci>贵重物品</productPeci>
+  </Product>
+   <Product id="003">
+    <productName>玩具熊</productName>
+    <productType>玩具</productType>
+    <productPeci>纺织物</productPeci>
+  </Product>
+</ProductRoot>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="GBK"?>
+<!ELEMENT ProductRoot (Product)>
+<!ELEMENT Product (productName,productType,productPeci)>
+<!ELEMENT productName (#PCDATA)>
+<!ELEMENT productType (#PCDATA)>
+<!ELEMENT productPeci (#PCDATA)>
+<!ATTLIST Product id CDATA #REQUIRED >
